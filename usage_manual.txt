@@ -1,0 +1,10 @@
+To Runn the lib correct you ned to work with an TKinter gui
+
+creating a new LED Clock display:
+  Class:
+  Clock_Display()
+  the init ned the hight and the whide of the display.
+  so create like this 
+  newDisplay = LEDClock.Clock_Display(whide,hight)
+
+
